@@ -1,5 +1,5 @@
 #exersice 1
-#315366039  Ran Wurmbrand
+# Ran Wurmbrand
 
 .section .rodata
 format_printf_enter_seed:   .string "Enter configuration seed: "
