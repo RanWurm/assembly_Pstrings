@@ -1,5 +1,5 @@
 #exersice 1
-#315366039  Ran Wurmbrand
+#Ran Wurmbrand
 
 .data
 .section .rodata
